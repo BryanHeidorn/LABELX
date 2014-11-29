@@ -1,0 +1,860 @@
+error occurred:read error at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser/Expat.pm line 470.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:
+not well-formed (invalid token) at line 2, column 504, byte 516 at /System/Library/Perl/Extras/5.16/darwin-thread-multi-2level/XML/Parser.pm line 187.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 2.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 3.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 4.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 5.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 6.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 7.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 8.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 9.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 10.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 11.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 12.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 13.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 14.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 15.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 16.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 17.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 18.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 19.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 20.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 21.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 22.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 23.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 24.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 25.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 26.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 27.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 28.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 29.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 30.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 31.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 32.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 33.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 34.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 35.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 36.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 37.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 38.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 39.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 40.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 41.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 42.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 43.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 44.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 45.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 46.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 47.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 48.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 49.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 50.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 51.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 52.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 53.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 54.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 55.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 56.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 57.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 58.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 59.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 60.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 61.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 62.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 63.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 64.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 65.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 66.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 67.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 68.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 69.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 70.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 71.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 72.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 73.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 74.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 75.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 76.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 77.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 78.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 79.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 80.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 81.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 82.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 83.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 84.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 85.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 86.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 87.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 88.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 89.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 90.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 91.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 92.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 93.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 94.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 95.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 96.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 97.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 98.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 99.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 112, <DAT> line 100.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 2.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 3.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 4.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 5.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 6.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 7.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 8.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 9.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 10.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 11.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 12.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 13.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 14.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 15.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 16.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 17.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 18.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 19.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 20.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 21.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 22.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 23.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 24.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 25.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 26.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 27.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 28.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 29.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 30.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 31.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 32.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 33.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 34.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 35.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 36.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 37.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 38.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 39.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 40.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 41.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 42.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 43.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 44.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 45.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 46.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 47.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 48.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 49.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 50.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 51.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 52.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 53.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 54.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 55.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 56.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 57.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 58.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 59.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 60.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 61.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 62.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 63.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 64.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 65.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 66.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 67.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 68.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 69.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 70.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 71.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 72.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 73.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 74.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 75.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 76.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 77.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 78.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 79.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 80.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 81.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 82.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 83.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 84.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 85.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 86.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 87.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 88.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 89.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 90.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 91.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 92.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 93.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 94.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 95.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 96.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 97.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 98.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 99.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 110, <DAT> line 100.
+
+error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63.
+
+HASH(0x7fd36683b8e8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 2.
+
+HASH(0x7fd365387950)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 3.
+
+HASH(0x7fd365396bd0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 4.
+
+HASH(0x7fd3653862d8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 5.
+
+HASH(0x7fd365396bb8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 6.
+
+HASH(0x7fd365387668)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 7.
+
+HASH(0x7fd365387350)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 8.
+
+HASH(0x7fd3653967e0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 9.
+
+HASH(0x7fd365396ed0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 10.
+
+HASH(0x7fd365386e00)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 11.
+
+HASH(0x7fd36683b2a0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 12.
+
+HASH(0x7fd365397428)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 13.
+
+HASH(0x7fd3653970f8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 14.
+
+HASH(0x7fd365386f38)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 15.
+
+HASH(0x7fd365397398)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 16.
+
+HASH(0x7fd365397050)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 17.
+
+HASH(0x7fd365396840)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 18.
+
+HASH(0x7fd36683b7c8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 19.
+
+HASH(0x7fd365386cb0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 20.
+
+HASH(0x7fd365387f80)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 21.
+
+HASH(0x7fd365387a70)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 22.
+
+HASH(0x7fd365396d80)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 23.
+
+HASH(0x7fd365387a28)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 24.
+
+HASH(0x7fd365387740)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 25.
+
+HASH(0x7fd365386e18)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 26.
+
+HASH(0x7fd365396870)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 27.
+
+HASH(0x7fd365388058)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 28.
+
+HASH(0x7fd365386ed8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 29.
+
+HASH(0x7fd36683b6a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 30.
+
+HASH(0x7fd3653968b8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 31.
+
+HASH(0x7fd364804570)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 32.
+
+HASH(0x7fd36683af88)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 33.
+
+HASH(0x7fd3653863e0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 34.
+
+HASH(0x7fd36683b6c0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 35.
+
+HASH(0x7fd3653871a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 36.
+
+HASH(0x7fd365387da0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 37.
+
+HASH(0x7fd365396d50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 38.
+
+HASH(0x7fd3653871c0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 39.
+
+HASH(0x7fd3653875a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 40.
+
+HASH(0x7fd36683b780)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 41.
+
+HASH(0x7fd365397008)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 42.
+
+HASH(0x7fd36537dd50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 43.
+
+HASH(0x7fd3653880e8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 44.
+
+HASH(0x7fd365396cf0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 45.
+
+HASH(0x7fd365387920)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 46.
+
+HASH(0x7fd3653969d8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 47.
+
+HASH(0x7fd36683b390)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 48.
+
+HASH(0x7fd365386e00)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 49.
+
+HASH(0x7fd365387aa0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 50.
+
+HASH(0x7fd36537ddc8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 51.
+
+HASH(0x7fd3653880d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 52.
+
+HASH(0x7fd365397548)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 53.
+
+HASH(0x7fd365397188)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 54.
+
+HASH(0x7fd365396828)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 55.
+
+HASH(0x7fd365386c50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 56.
+
+HASH(0x7fd36683b498)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 57.
+
+HASH(0x7fd365386ed8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 58.
+
+HASH(0x7fd365387668)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 59.
+
+HASH(0x7fd365386d88)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 60.
+
+HASH(0x7fd365396f18)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 61.
+
+HASH(0x7fd365397038)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 62.
+
+HASH(0x7fd365396660)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 63.
+
+HASH(0x7fd365397158)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 64.
+
+HASH(0x7fd365386e78)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 65.
+
+HASH(0x7fd365386ff8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 66.
+
+HASH(0x7fd365387ff8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 67.
+
+HASH(0x7fd36683af58)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 68.
+
+HASH(0x7fd365387ea8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 69.
+
+HASH(0x7fd365387398)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 70.
+
+HASH(0x7fd36537e080)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 71.
+
+HASH(0x7fd365387368)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 72.
+
+HASH(0x7fd3653970b0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 73.
+
+HASH(0x7fd36537dd08)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 74.
+
+HASH(0x7fd365387ba8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 75.
+
+HASH(0x7fd365396eb8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 76.
+
+HASH(0x7fd365396ca8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 77.
+
+HASH(0x7fd365386710)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 78.
+
+HASH(0x7fd365386c50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 79.
+
+HASH(0x7fd3653967c8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 80.
+
+HASH(0x7fd3653967f8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 81.
+
+HASH(0x7fd365396b70)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 82.
+
+HASH(0x7fd365397578)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 83.
+
+HASH(0x7fd365387368)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 84.
+
+HASH(0x7fd365386428)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 85.
+
+HASH(0x7fd3653863e0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 86.
+
+HASH(0x7fd365396ac8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 87.
+
+HASH(0x7fd36683b5d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 88.
+
+HASH(0x7fd3653881c0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 89.
+
+HASH(0x7fd365387d58)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 90.
+
+HASH(0x7fd365396ee8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 91.
+
+HASH(0x7fd365387830)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 92.
+
+HASH(0x7fd3653880d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 93.
+
+HASH(0x7fd3653877d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 94.
+
+HASH(0x7fd365386b60)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 95.
+
+HASH(0x7fd365387bf0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 96.
+
+HASH(0x7fd3653865f0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 97.
+
+HASH(0x7fd365387f08)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 98.
+
+HASH(0x7fd365397008)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 99.
+
+HASH(0x7fd365387ff8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 100.
+
+HASH(0x7fd365387130)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63.
+
+HASH(0x7fb57a933ee8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 2.
+
+HASH(0x7fb57a949f50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 3.
+
+HASH(0x7fb57c227f70)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 4.
+
+HASH(0x7fb57a949b60)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 5.
+
+HASH(0x7fb57a949aa0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 6.
+
+HASH(0x7fb57c227fb8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 7.
+
+HASH(0x7fb57a948f08)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 8.
+
+HASH(0x7fb57a949ce0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 9.
+
+HASH(0x7fb57c228468)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 10.
+
+HASH(0x7fb57a9339a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 11.
+
+HASH(0x7fb57c227da8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 12.
+
+HASH(0x7fb57c228078)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 13.
+
+HASH(0x7fb57c227f28)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 14.
+
+HASH(0x7fb57a94a448)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 15.
+
+HASH(0x7fb57c228528)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 16.
+
+HASH(0x7fb57a9338a0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 17.
+
+HASH(0x7fb57a9499f8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 18.
+
+HASH(0x7fb57c227a18)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 19.
+
+HASH(0x7fb57a933a98)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 20.
+
+HASH(0x7fb57a9492b0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 21.
+
+HASH(0x7fb57a94a538)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 22.
+
+HASH(0x7fb57c2282d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 23.
+
+HASH(0x7fb57a933b58)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 24.
+
+HASH(0x7fb57a94a718)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 25.
+
+HASH(0x7fb57a933438)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 26.
+
+HASH(0x7fb57a949f98)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 27.
+
+HASH(0x7fb57c227c58)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 28.
+
+HASH(0x7fb57a933900)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 29.
+
+HASH(0x7fb57a933948)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 30.
+
+HASH(0x7fb57a949ff8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 31.
+
+HASH(0x7fb57a933b10)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 32.
+
+HASH(0x7fb57a94a310)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 33.
+
+HASH(0x7fb57c228330)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 34.
+
+HASH(0x7fb57c229b80)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 35.
+
+HASH(0x7fb57c228198)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 36.
+
+HASH(0x7fb57c229bf8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 37.
+
+HASH(0x7fb57a933948)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 38.
+
+HASH(0x7fb57c228798)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 39.
+
+HASH(0x7fb57a949100)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 40.
+
+HASH(0x7fb57c2286a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 41.
+
+HASH(0x7fb57a933c30)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 42.
+
+HASH(0x7fb57a933bd0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 43.
+
+HASH(0x7fb57a94a0d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 44.
+
+HASH(0x7fb57c227f70)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 45.
+
+HASH(0x7fb57a933d98)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 46.
+
+HASH(0x7fb57c228030)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 47.
+
+HASH(0x7fb57a9491a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 48.
+
+HASH(0x7fb57a949e60)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 49.
+
+HASH(0x7fb57c2282d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 50.
+
+HASH(0x7fb57a949a28)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 51.
+
+HASH(0x7fb57a9496d0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 52.
+
+HASH(0x7fb57a933528)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 53.
+
+HASH(0x7fb57a94a550)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 54.
+
+HASH(0x7fb57c2287f8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 55.
+
+HASH(0x7fb57c228570)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 56.
+
+HASH(0x7fb57a933d80)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 57.
+
+HASH(0x7fb57a94a7c0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 58.
+
+HASH(0x7fb57a948d10)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 59.
+
+HASH(0x7fb57c228648)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 60.
+
+HASH(0x7fb57a949fe0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 61.
+
+HASH(0x7fb57a9490b8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 62.
+
+HASH(0x7fb57a94a580)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 63.
+
+HASH(0x7fb57a949538)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 64.
+
+HASH(0x7fb57c2286a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 65.
+
+HASH(0x7fb57a933a20)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 66.
+
+HASH(0x7fb57a94a0b8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 67.
+
+HASH(0x7fb57a949178)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 68.
+
+HASH(0x7fb57c227d90)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 69.
+
+HASH(0x7fb57c227e50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 70.
+
+HASH(0x7fb57a94a1f0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 71.
+
+HASH(0x7fb57a94a4a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 72.
+
+HASH(0x7fb57a948bd8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 73.
+
+HASH(0x7fb57a949e00)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 74.
+
+HASH(0x7fb57c227dd8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 75.
+
+HASH(0x7fb57c227ad8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 76.
+
+HASH(0x7fb57a933bb8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 77.
+
+HASH(0x7fb57a94a7a8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 78.
+
+HASH(0x7fb57a949d88)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 79.
+
+HASH(0x7fb57c227c88)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 80.
+
+HASH(0x7fb57a94a268)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 81.
+
+HASH(0x7fb57a933a50)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 82.
+
+HASH(0x7fb57a933a20)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 83.
+
+HASH(0x7fb57c2286f0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 84.
+
+HASH(0x7fb57a949b00)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 85.
+
+HASH(0x7fb57a94a688)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 86.
+
+HASH(0x7fb57a949f80)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 87.
+
+HASH(0x7fb57a94a418)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 88.
+
+HASH(0x7fb57a933dc8)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 89.
+
+HASH(0x7fb57c229cd0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 90.
+
+HASH(0x7fb57c228078)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 91.
+
+HASH(0x7fb57a94a310)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 92.
+
+HASH(0x7fb57c228558)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 93.
+
+HASH(0x7fb57c228588)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 94.
+
+HASH(0x7fb57a933558)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 95.
+
+HASH(0x7fb57c228060)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 96.
+
+HASH(0x7fb57a94a7c0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 97.
+
+HASH(0x7fb57a933438)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 98.
+
+HASH(0x7fb57a948d10)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 99.
+
+HASH(0x7fb57a949da0)error occurred:Undefined subroutine &main::Dumper called at /Users/bryanheidorn/Documents/workspace/CSVtoXML/XMLtoCSV.pl line 63, <DAT> line 100.
+
+HASH(0x7fb57c2283f0)

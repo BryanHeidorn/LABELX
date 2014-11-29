@@ -13,7 +13,7 @@ use File::Spec::Functions 'catfile';
 # It is planned but not necessary that this list is created by finding frequently appearning words in the OCR output from
 # photographs of museum labels. The hope is to eliminate sperious "words" created via OCR errors.
 # The program also accepts a list of files names in which the words will be counted.
-# The Dictionary must be sorted by frequency in assending order. The frequenct followed by multiple spaces and then the word followed by new line
+# The Dictionary must be sorted by frequency in assending order. The frequency followed by multiple spaces and then the word followed by new line
 # Output: Stdout: "Filename #wordsmatched #tokens"
 #
 # Usage: FilterLabelsonWordFreq.pl DictionaryFile FilenameFile OutputFile
